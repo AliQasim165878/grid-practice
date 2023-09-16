@@ -1,0 +1,19 @@
+.App {
+  padding: 0rem 20rem;
+}
+
+#dataGrid {
+  height: 500px;
+}
+
+/* Styles for last section of Demo */
+.employee-photo {
+  height: 140px;
+  float: left;
+  padding: 0 20px 20px 0;
+}
+
+.employee-notes {
+  text-align: justify;
+  white-space: normal;
+}
